@@ -1,4 +1,4 @@
-package Lesson17.CoffeeMachine;
+package Opgave;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,7 +12,7 @@ public class CoffeeMachine {
         drinks.add(new Espresso("Espresso"));
         drinks.add(new ChocolateDrink("Hot Chocolate"));
 
-    }
+
     /*
      * Serve en drik
      * - Søger i listen efter navn
