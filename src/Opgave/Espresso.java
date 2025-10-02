@@ -3,7 +3,7 @@ package Opgave;
 // Espresso subklasse – polymorfi
 class Espresso extends Drink {
     public Espresso(String name) {
-        Super(name);
+        super(name);
     }
     // compareTo implementeres her i superklassen
     @Override
