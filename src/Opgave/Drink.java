@@ -1,6 +1,7 @@
+package Opgave;
 
-    /*
-     * Abstrakt klasse Drink
+/*
+     * Abstrakt klasse Opgave.Drink
      * - Skal arves af alle drikke
      * - Viser abstraktion, polymorfi og arv
      */
