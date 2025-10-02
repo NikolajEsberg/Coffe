@@ -3,10 +3,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Kaffemaskine klasse – aggregation
-public class CoffeeMachine {
+public class CoffeMachine {
     private List<Drink> drinks;
 
-    public CoffeeMachine() {
+    public CoffeMachine() {
         drinks = new ArrayList<>();
         drinks.add(new Coffee("Black Coffee"));
         drinks.add(new Espresso("Espresso"));
